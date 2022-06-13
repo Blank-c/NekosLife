@@ -1,7 +1,7 @@
 import aiohttp
 
 __VERSION__ = "0.0.1"
-__AUTHOR__ = "Blank"
+__AUTHOR__ = "Blank-c"
 
 class Life:    
     def __init__(self, proxy: bool= False):
