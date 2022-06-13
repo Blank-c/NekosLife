@@ -1,1 +1,1 @@
-
+from .__functions import Life, __AUTHOR__, __VERSION__
