@@ -25,6 +25,7 @@ life = Life(proxy= True)
 
 **List of available modules:**
 ```python
+life = Life()
 print(life._endpoints)
 ```
 ## Features:
