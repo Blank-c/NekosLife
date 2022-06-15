@@ -1,6 +1,9 @@
 # Nekoslife
 **An unofficial wrapper for [nekos.life api](https://nekos.life/) with proxy support.**
 
+![PyPI - Downloads](https://img.shields.io/pypi/dw/nekoslife?color=g&label=Downloads&logo=pypi&style=for-the-badge)
+![PyPI - Version](https://img.shields.io/pypi/v/nekoslife?style=for-the-badge)
+![GitHub Workflow Status (event)](https://img.shields.io/github/workflow/status/Blank-c/NekosLife/Upload%20Python%20Package?style=for-the-badge)
 
 ## Installation:
 ```
