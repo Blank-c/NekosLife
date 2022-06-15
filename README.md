@@ -35,5 +35,5 @@ print(life._endpoints)
 - Fully Asynchronous.
 - Proxy Support.
 - Easy to use.
-- Lightweight
-- Fast even with proxy
+- Lightweight.
+- Fast even with proxy.
